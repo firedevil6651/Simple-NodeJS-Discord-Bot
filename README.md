@@ -24,6 +24,3 @@
 
 # Copying Code
  Feel free to copy any code you want and add on to this, there are no catches! You don't need to credit anybody if you do. If you need further help, create an issue. 
-
-# Notes 
- If you would like more commands, you can message me on Discord and ask me to make some! My Discord is **firedevil#4800** .
